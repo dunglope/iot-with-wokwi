@@ -1,5 +1,5 @@
 # iot-with-wokwi
-Đang tìm bản Tiếng Việt? [Tiếng Việt](README_vi.md)
+Đang tìm bản [Tiếng Việt?](README_vi.md)
 
 Use [Wokwi for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=wokwi.wokwi-vscode) to simulate this project.
 ## Building
