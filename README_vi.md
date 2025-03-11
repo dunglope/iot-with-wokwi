@@ -10,7 +10,7 @@ pio run
 
 ## Về ThingSpeak
 
-Tạo một channel mới với 3 field
+Tạo một channel mới với 3 field. 
 Thay đổi ThingSpeak API key và Channel ID sau khi đã tạo.
 
 ```cpp
